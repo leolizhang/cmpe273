@@ -1,0 +1,2 @@
+C:\Users\Leo\grpc\examples\python\calculator>python calculator_client.py
+1 + 2 = 3
